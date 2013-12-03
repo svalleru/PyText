@@ -13,14 +13,14 @@ as text/MMS to the receiver's mobile number.
 Usage
 =====
 1. Clone the repo by running git clone command
-----
-$ git clone http://github.com/shankarvalleru/PyText
-----
+
+  $ git clone http://github.com/shankarvalleru/PyText
+
 2. Update PyText/gmailAccount.cfg file with correct gmail credentials
 3. Send text/sms messages for free by running pyText script using following syntax
-----
-$ python pyText.py country='United States' carrier='AT&T Wireless' receiver='4088675309' text='Good Bye Cruel World!'
-----
+
+  $ python pyText.py country='United States' carrier='AT&T Wireless' receiver='4088675309' text='Good Bye Cruel World!'
+
 
 Info
 ====
